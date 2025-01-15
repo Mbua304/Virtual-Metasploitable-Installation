@@ -47,6 +47,11 @@ Version: Select "Other (64-bit)."
 
 
 
+<img src="Folder/met4.jpg">
+
+
+
+
 Fill in these details to proceed with setting up your virtual machine.
 
 <h3>Step 4</h3>
