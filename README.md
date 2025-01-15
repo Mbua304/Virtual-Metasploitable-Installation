@@ -8,6 +8,11 @@ Download Metasploitable from trusted sources like Rapid7's website. Choose the a
 
 
 
+<img src="Folder/met1.jpg">
+
+
+
+
 
 
 <h3>Step 2</h3>
