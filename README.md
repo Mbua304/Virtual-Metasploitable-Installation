@@ -100,6 +100,10 @@ Now save the file and you will see that the instance is created with the name yo
 
 
 
+<img src="Folder/met9.jpg">
+
+
+
 You’re all set! Simply click the "Start" button at the top to initiate the machine. Wait as it boots up and loads the instance, preparing your virtual environment for use.
 
 
