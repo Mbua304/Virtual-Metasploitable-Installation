@@ -71,6 +71,11 @@ Select the option to use an existing virtual hard disk file. This allows you to 
 
 
 
+
+<img src="Folder/met6.png">
+
+
+
 <h3>Step 6</h3>
 .
 Set up the network settings for your virtual machine carefully to ensure security. It is highly recommended to use either NAT or Host-only network configurations. These options help keep the virtual machine isolated from public networks, preventing exposure to potential external threats. This is especially important for Metasploitable, as it is intentionally vulnerable and should never be connected to untrusted networks. Proper network configuration ensures a safe environment for testing and learning without risking unintended network access or compromising your system's security. Always double-check your settings to maintain isolation and secure your virtual lab.
