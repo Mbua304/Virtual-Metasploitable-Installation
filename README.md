@@ -91,6 +91,11 @@ Now locate the file that we have extracted.
 
 
 
+
+<img src="Folder/met8.jpg">
+
+
+
 Now save the file and you will see that the instance is created with the name you have given.
 
 
