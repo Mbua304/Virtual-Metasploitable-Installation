@@ -108,6 +108,11 @@ You’re all set! Simply click the "Start" button at the top to initiate the mac
 
 
 
+
+<img src="Folder/met10.png">
+
+
+
 <h3>Step 7</h3>
 .
 After the instance has finished loading, you’ll be prompted to enter a login name and password. The default credentials are as follows:
