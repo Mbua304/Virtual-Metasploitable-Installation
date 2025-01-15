@@ -21,6 +21,10 @@ After downloading Metasploitable, extract the compressed file using tools like W
 
 
 
+<img src="">
+
+
+
 <h3>Step 3</h3>
 .
 Click on the "New" option in VirtualBox to create a new virtual machine and begin the setup process.
