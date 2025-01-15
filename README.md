@@ -21,7 +21,7 @@ After downloading Metasploitable, extract the compressed file using tools like W
 
 
 
-<img src="">
+<img src="Folder/met2.jpg">
 
 
 
