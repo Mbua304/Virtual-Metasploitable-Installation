@@ -7,6 +7,9 @@ Download Metasploitable from trusted sources like Rapid7's website. Choose the a
 
 
 
+
+
+
 <h3>Step 2</h3>
 .
 After downloading Metasploitable, extract the compressed file using tools like WinRAR or 7-Zip. Save the extracted folder to a preferred location. This folder contains the virtual machine files needed for setup. Ensure the extraction completes successfully, as these files will be imported into a virtualization platform like VMware or VirtualBox.
