@@ -82,6 +82,11 @@ Set up the network settings for your virtual machine carefully to ensure securit
 
 
 
+
+<img src="Folder/met7.jpg">
+
+
+
 Now locate the file that we have extracted.
 
 
