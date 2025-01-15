@@ -31,6 +31,12 @@ Click on the "New" option in VirtualBox to create a new virtual machine and begi
 
 
 
+
+
+<img src="Folder/met3.jpg">
+
+
+
 A window will appear, prompting you to enter details for your virtual machine. Provide the following:
 
 Name: Choose a name of your preference.
